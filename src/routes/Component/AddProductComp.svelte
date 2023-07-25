@@ -6,6 +6,7 @@
     let count = 0;
 
     let brand = '';
+    
     let type = '';
     let year = 2023; // Default value for the year select dropdown
     let kms = 0;
